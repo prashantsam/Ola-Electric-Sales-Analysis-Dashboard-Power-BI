@@ -93,7 +93,8 @@ The dataset was cleaned using **Power Query** by:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+<img width="1374" height="690" alt="Dashboard" src="https://github.com/user-attachments/assets/216f3bd9-0f49-4784-93a5-220aa16fa130" />
+
 
 Example:
 
